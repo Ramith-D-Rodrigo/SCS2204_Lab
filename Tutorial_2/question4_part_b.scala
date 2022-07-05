@@ -9,8 +9,15 @@ object question4_part_b extends App{
         return (((15 - ticket_price)  / 5) * 20) + 120;
     }
 
+    def income(ticket_price: Int): Int = { //function to calculate total income
+        return attendance(ticket_price) * ticket_price;
+    }
+
+    def cost(ticket_price: Int): Int = {    //function to calculate cost
+        return attendance(ticket_price) * 3 + 500;
+    }
     def profit(ticket_price: Int): Int = { //function to calculate total profit
-        return (attendance(ticket_price) * ticket_price) - ((attendance(ticket_price) * 3) + 500);
+        return income(ticket_price) - cost(ticket);
     }
 
     print("Enter the ticket price: ");
