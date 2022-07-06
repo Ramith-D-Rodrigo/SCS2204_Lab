@@ -5,7 +5,7 @@ object question1 extends App{
     var m ,n = 5;
     var f = 12.0f;
     var g = 4.0f;
-    var x = 'X';
+    var c = 'X';
 
     //a)
     println(k + 12 * m);
@@ -17,8 +17,11 @@ object question1 extends App{
     println(n%j);
 
     //d)
-    println(f+ 10*5 +g);
+    println(m/j*j);
 
     //e)
+    println(f+ 10*5 +g);
+
+    //f)
     //println(++i * n);
 }
