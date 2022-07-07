@@ -273,3 +273,500 @@ WARNING: Unmatched cancel notification for request id 311
 2022.07.06 12:37:28 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question1.scala
 2022.07.06 12:37:31 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question1.scala
 2022.07.06 12:37:33 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question1.scala
+2022.07.06 12:39:40 INFO  shutting down Metals
+2022.07.06 17:58:43 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at d:\University\2nd Year\SCS2204\SCS2204_Lab\.metals\lsp.trace.json or C:\Users\User\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.07.06 17:58:44 INFO  logging to file D:\University\2nd Year\SCS2204\SCS2204_Lab\.metals\metals.log
+2022.07.06 17:58:44 INFO  Started: Metals version 0.11.7 in workspace 'D:\University\2nd Year\SCS2204\SCS2204_Lab' for client Visual Studio Code 1.68.1.
+2022.07.06 17:58:45 INFO  time: initialize in 0.97s
+2022.07.06 17:58:46 WARN  Flyway upgrade recommended: H2 2.1.214 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.07.06 17:58:46 WARN  Build server is not auto-connectable.
+2022.07.06 17:58:46 WARN  no build tool detected in workspace 'D:\University\2nd Year\SCS2204\SCS2204_Lab'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.07.06 17:58:47 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question1.scala
+2022.07.06 17:58:47 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.scala
+Jul 06, 2022 5:58:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2022.07.06 17:58:48 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.scala
+Jul 06, 2022 5:58:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+Jul 06, 2022 5:58:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+2022.07.06 17:58:49 INFO  no build target found for D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question1.scala. Using presentation compiler with project's scala-library version: 3.1.3
+2022.07.06 17:58:51 INFO  time: code lens generation in 3.71s
+2022.07.06 17:58:51 INFO  time: code lens generation in 3.82s
+2022.07.06 17:58:51 INFO  time: code lens generation in 3.87s
+2022.07.06 17:58:58 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question1.scala
+2022.07.06 17:58:59 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question1.scala
+2022.07.06 17:59:05 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question1.scala
+2022.07.06 17:59:44 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question1.scala
+2022.07.06 17:59:48 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question1.scala
+2022.07.06 17:59:50 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question1.scala
+2022.07.06 17:59:59 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question1.scala
+2022.07.06 18:00:03 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question1.scala
+2022.07.06 18:00:14 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question1.scala
+2022.07.06 18:00:18 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question1.scala
+2022.07.06 18:00:22 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question1.scala
+2022.07.06 18:00:27 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question1.scala
+2022.07.06 18:00:33 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question1.scala
+2022.07.06 18:00:36 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question1.scala
+2022.07.06 18:00:42 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question1.scala
+2022.07.06 18:00:48 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question1.scala
+2022.07.06 18:00:50 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question1.scala
+2022.07.06 18:00:51 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question1.scala
+2022.07.06 18:00:58 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question1.scala
+2022.07.06 18:01:17 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question1.scala
+2022.07.06 18:01:33 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question1.scala
+2022.07.06 18:01:37 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question1.scala
+2022.07.06 18:01:39 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question1.scala
+2022.07.06 18:01:47 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question1.scala
+2022.07.06 18:01:49 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question1.scala
+2022.07.06 18:01:52 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question1.scala
+2022.07.06 18:01:54 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question1.scala
+2022.07.06 18:01:56 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question1.scala
+2022.07.06 18:03:28 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question1.scala
+2022.07.06 18:03:31 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question1.scala
+2022.07.06 18:03:36 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question1.scala
+2022.07.06 18:03:42 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question1.scala
+2022.07.06 18:07:19 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.scala
+2022.07.06 18:07:55 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.scala
+2022.07.06 18:08:00 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.scala
+2022.07.06 18:08:06 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.scala
+2022.07.06 18:08:13 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.scala
+2022.07.06 18:08:14 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.scala
+2022.07.06 18:08:20 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.scala
+2022.07.06 18:08:22 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.scala
+2022.07.06 18:08:25 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.scala
+2022.07.06 18:08:26 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.scala
+2022.07.06 18:08:29 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.scala
+2022.07.06 18:08:32 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.scala
+2022.07.06 18:08:36 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.scala
+2022.07.06 18:08:42 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.scala
+2022.07.06 18:08:49 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.scala
+2022.07.06 18:08:54 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.scala
+2022.07.06 18:09:01 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.scala
+2022.07.06 18:09:02 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.scala
+2022.07.06 18:09:03 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.scala
+2022.07.06 18:09:06 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.scala
+2022.07.06 18:09:09 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.scala
+2022.07.06 18:09:11 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.scala
+2022.07.06 18:09:12 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.scala
+2022.07.06 18:12:10 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.scala
+2022.07.06 18:12:11 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.scala
+2022.07.06 18:12:17 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.scala
+2022.07.06 18:12:19 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.scala
+2022.07.06 18:12:27 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.scala
+2022.07.06 18:12:33 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.scala
+2022.07.06 18:12:35 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.scala
+2022.07.06 18:12:38 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.scala
+2022.07.06 18:12:40 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.scala
+2022.07.06 18:12:42 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.scala
+2022.07.06 18:12:44 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.scala
+2022.07.06 18:12:48 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.scala
+2022.07.06 18:12:56 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.scala
+2022.07.06 18:12:57 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.scala
+2022.07.06 18:13:02 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.scala
+2022.07.06 18:13:03 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.scala
+2022.07.06 18:13:07 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.scala
+2022.07.06 18:13:08 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.scala
+2022.07.06 18:13:14 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.scala
+2022.07.06 18:13:18 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.scala
+2022.07.06 18:13:21 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.scala
+2022.07.06 18:13:24 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.scala
+2022.07.06 18:13:26 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.scala
+2022.07.06 18:13:28 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.scala
+2022.07.06 18:13:30 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.scala
+2022.07.06 18:24:30 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.scala
+2022.07.06 18:25:33 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.scala
+2022.07.06 18:25:40 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.scala
+2022.07.06 18:25:44 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.scala
+2022.07.06 18:26:01 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.scala
+2022.07.06 18:26:13 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.scala
+2022.07.06 18:26:30 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.scala
+2022.07.07 13:14:56 INFO  shutting down Metals
+2022.07.07 21:51:23 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at d:\University\2nd Year\SCS2204\SCS2204_Lab\.metals\lsp.trace.json or C:\Users\User\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.07.07 21:51:24 INFO  logging to file D:\University\2nd Year\SCS2204\SCS2204_Lab\.metals\metals.log
+2022.07.07 21:51:24 INFO  Started: Metals version 0.11.7 in workspace 'D:\University\2nd Year\SCS2204\SCS2204_Lab' for client Visual Studio Code 1.68.1.
+2022.07.07 21:51:25 INFO  time: initialize in 1.03s
+2022.07.07 21:51:25 WARN  Flyway upgrade recommended: H2 2.1.214 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.07.07 21:51:25 WARN  Build server is not auto-connectable.
+2022.07.07 21:51:25 WARN  no build tool detected in workspace 'D:\University\2nd Year\SCS2204\SCS2204_Lab'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.07.07 21:51:26 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.scala
+2022.07.07 21:51:28 INFO  no build target found for D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.scala. Using presentation compiler with project's scala-library version: 3.1.3
+2022.07.07 21:51:31 INFO  time: code lens generation in 3.98s
+2022.07.07 21:55:19 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java
+2022.07.07 21:55:20 WARN  Running javac-semanticdb failed for file:///D:/University/2nd%20Year/SCS2204/SCS2204_Lab/Tutorial_2/question3.java. Output:
+semanticdb-javac: unknown flag 'Year\SCS2204\SCS2204_Lab\Tutorial_2'
+
+2022.07.07 21:55:25 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java
+2022.07.07 21:55:26 WARN  Running javac-semanticdb failed for file:///D:/University/2nd%20Year/SCS2204/SCS2204_Lab/Tutorial_2/question3.java. Output:
+semanticdb-javac: unknown flag 'Year\SCS2204\SCS2204_Lab\Tutorial_2'
+
+D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java:1: error: reached end of file while parsing
+class 
+     ^
+D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java:1: error: reached end of file while parsing
+class 
+      ^
+2 errors
+2022.07.07 21:55:31 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java
+2022.07.07 21:55:31 WARN  Running javac-semanticdb failed for file:///D:/University/2nd%20Year/SCS2204/SCS2204_Lab/Tutorial_2/question3.java. Output:
+semanticdb-javac: unknown flag 'Year\SCS2204\SCS2204_Lab\Tutorial_2'
+
+D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java:1: error: reached end of file while parsing
+class question3
+               ^
+1 error
+2022.07.07 21:55:33 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java
+2022.07.07 21:55:34 WARN  Running javac-semanticdb failed for file:///D:/University/2nd%20Year/SCS2204/SCS2204_Lab/Tutorial_2/question3.java. Output:
+semanticdb-javac: unknown flag 'Year\SCS2204\SCS2204_Lab\Tutorial_2'
+
+2022.07.07 21:55:58 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java
+2022.07.07 21:55:58 WARN  Running javac-semanticdb failed for file:///D:/University/2nd%20Year/SCS2204/SCS2204_Lab/Tutorial_2/question3.java. Output:
+semanticdb-javac: unknown flag 'Year\SCS2204\SCS2204_Lab\Tutorial_2'
+
+D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java:2: error: ';' expected
+    public static void main()
+                             ^
+1 error
+2022.07.07 21:56:03 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java
+2022.07.07 21:56:03 WARN  Running javac-semanticdb failed for file:///D:/University/2nd%20Year/SCS2204/SCS2204_Lab/Tutorial_2/question3.java. Output:
+semanticdb-javac: unknown flag 'Year\SCS2204\SCS2204_Lab\Tutorial_2'
+
+D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java:2: error: <identifier> expected
+    public static void main(String )
+                                  ^
+D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java:2: error: ';' expected
+    public static void main(String )
+                                    ^
+2 errors
+2022.07.07 21:56:08 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java
+2022.07.07 21:56:08 WARN  Running javac-semanticdb failed for file:///D:/University/2nd%20Year/SCS2204/SCS2204_Lab/Tutorial_2/question3.java. Output:
+semanticdb-javac: unknown flag 'Year\SCS2204\SCS2204_Lab\Tutorial_2'
+
+D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java:2: error: ';' expected
+    public static void main(String []args)
+                                          ^
+1 error
+2022.07.07 21:56:09 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java
+2022.07.07 21:56:09 WARN  Running javac-semanticdb failed for file:///D:/University/2nd%20Year/SCS2204/SCS2204_Lab/Tutorial_2/question3.java. Output:
+semanticdb-javac: unknown flag 'Year\SCS2204\SCS2204_Lab\Tutorial_2'
+
+2022.07.07 21:56:13 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java
+2022.07.07 21:56:14 WARN  Running javac-semanticdb failed for file:///D:/University/2nd%20Year/SCS2204/SCS2204_Lab/Tutorial_2/question3.java. Output:
+semanticdb-javac: unknown flag 'Year\SCS2204\SCS2204_Lab\Tutorial_2'
+
+D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java:3: error: ';' expected
+        int a
+             ^
+1 error
+2022.07.07 21:56:23 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java
+2022.07.07 21:56:23 WARN  Running javac-semanticdb failed for file:///D:/University/2nd%20Year/SCS2204/SCS2204_Lab/Tutorial_2/question3.java. Output:
+semanticdb-javac: unknown flag 'Year\SCS2204\SCS2204_Lab\Tutorial_2'
+
+D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java:3: error: ';' expected
+        int a = 2, b = 3, c = 4
+                               ^
+1 error
+2022.07.07 21:56:26 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java
+2022.07.07 21:56:26 WARN  Running javac-semanticdb failed for file:///D:/University/2nd%20Year/SCS2204/SCS2204_Lab/Tutorial_2/question3.java. Output:
+semanticdb-javac: unknown flag 'Year\SCS2204\SCS2204_Lab\Tutorial_2'
+
+2022.07.07 21:56:28 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java
+2022.07.07 21:56:29 WARN  Running javac-semanticdb failed for file:///D:/University/2nd%20Year/SCS2204/SCS2204_Lab/Tutorial_2/question3.java. Output:
+semanticdb-javac: unknown flag 'Year\SCS2204\SCS2204_Lab\Tutorial_2'
+
+D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java:4: error: not a statement
+        float 
+        ^
+D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java:4: error: ';' expected
+        float 
+             ^
+2 errors
+2022.07.07 21:56:33 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java
+2022.07.07 21:56:33 WARN  Running javac-semanticdb failed for file:///D:/University/2nd%20Year/SCS2204/SCS2204_Lab/Tutorial_2/question3.java. Output:
+semanticdb-javac: unknown flag 'Year\SCS2204\SCS2204_Lab\Tutorial_2'
+
+2022.07.07 21:56:35 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java
+2022.07.07 21:56:35 WARN  Running javac-semanticdb failed for file:///D:/University/2nd%20Year/SCS2204/SCS2204_Lab/Tutorial_2/question3.java. Output:
+semanticdb-javac: unknown flag 'Year\SCS2204\SCS2204_Lab\Tutorial_2'
+
+2022.07.07 21:56:42 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java
+2022.07.07 21:56:42 WARN  Running javac-semanticdb failed for file:///D:/University/2nd%20Year/SCS2204/SCS2204_Lab/Tutorial_2/question3.java. Output:
+semanticdb-javac: unknown flag 'Year\SCS2204\SCS2204_Lab\Tutorial_2'
+
+D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java:6: error: ';' expected
+        System.out.println("")
+                              ^
+1 error
+2022.07.07 21:56:44 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java
+2022.07.07 21:56:45 WARN  Running javac-semanticdb failed for file:///D:/University/2nd%20Year/SCS2204/SCS2204_Lab/Tutorial_2/question3.java. Output:
+semanticdb-javac: unknown flag 'Year\SCS2204\SCS2204_Lab\Tutorial_2'
+
+D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java:6: error: ';' expected
+        System.out.println(--b)
+                               ^
+1 error
+2022.07.07 21:56:50 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java
+2022.07.07 21:56:51 WARN  Running javac-semanticdb failed for file:///D:/University/2nd%20Year/SCS2204/SCS2204_Lab/Tutorial_2/question3.java. Output:
+semanticdb-javac: unknown flag 'Year\SCS2204\SCS2204_Lab\Tutorial_2'
+
+D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java:6: error: ';' expected
+        System.out.println(--b*a + c)
+                                     ^
+1 error
+2022.07.07 21:56:54 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java
+2022.07.07 21:56:54 WARN  Running javac-semanticdb failed for file:///D:/University/2nd%20Year/SCS2204/SCS2204_Lab/Tutorial_2/question3.java. Output:
+semanticdb-javac: unknown flag 'Year\SCS2204\SCS2204_Lab\Tutorial_2'
+
+D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java:6: error: ';' expected
+        System.out.println(--b*a + c*d--)
+                                         ^
+1 error
+2022.07.07 21:56:56 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java
+2022.07.07 21:56:56 WARN  Running javac-semanticdb failed for file:///D:/University/2nd%20Year/SCS2204/SCS2204_Lab/Tutorial_2/question3.java. Output:
+semanticdb-javac: unknown flag 'Year\SCS2204\SCS2204_Lab\Tutorial_2'
+
+2022.07.07 21:57:00 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java
+2022.07.07 21:57:00 WARN  Running javac-semanticdb failed for file:///D:/University/2nd%20Year/SCS2204/SCS2204_Lab/Tutorial_2/question3.java. Output:
+semanticdb-javac: unknown flag 'Year\SCS2204\SCS2204_Lab\Tutorial_2'
+
+D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java:7: error: not a statement
+        System.out.pri
+                  ^
+D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java:7: error: ';' expected
+        System.out.pri
+                      ^
+2 errors
+2022.07.07 21:57:02 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java
+2022.07.07 21:57:03 WARN  Running javac-semanticdb failed for file:///D:/University/2nd%20Year/SCS2204/SCS2204_Lab/Tutorial_2/question3.java. Output:
+semanticdb-javac: unknown flag 'Year\SCS2204\SCS2204_Lab\Tutorial_2'
+
+D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java:7: error: ';' expected
+        System.out.println()
+                            ^
+1 error
+2022.07.07 21:57:05 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java
+2022.07.07 21:57:05 WARN  Running javac-semanticdb failed for file:///D:/University/2nd%20Year/SCS2204/SCS2204_Lab/Tutorial_2/question3.java. Output:
+semanticdb-javac: unknown flag 'Year\SCS2204\SCS2204_Lab\Tutorial_2'
+
+D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java:7: error: ';' expected
+        System.out.println(a++)
+                               ^
+1 error
+2022.07.07 21:57:11 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java
+2022.07.07 21:57:11 WARN  Running javac-semanticdb failed for file:///D:/University/2nd%20Year/SCS2204/SCS2204_Lab/Tutorial_2/question3.java. Output:
+semanticdb-javac: unknown flag 'Year\SCS2204\SCS2204_Lab\Tutorial_2'
+
+D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java:8: error: ';' expected
+        System.out.println()
+                            ^
+1 error
+2022.07.07 21:57:15 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java
+2022.07.07 21:57:15 WARN  Running javac-semanticdb failed for file:///D:/University/2nd%20Year/SCS2204/SCS2204_Lab/Tutorial_2/question3.java. Output:
+semanticdb-javac: unknown flag 'Year\SCS2204\SCS2204_Lab\Tutorial_2'
+
+D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java:8: error: ';' expected
+        System.out.println(-2)
+                              ^
+1 error
+2022.07.07 21:57:18 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java
+2022.07.07 21:57:18 WARN  Running javac-semanticdb failed for file:///D:/University/2nd%20Year/SCS2204/SCS2204_Lab/Tutorial_2/question3.java. Output:
+semanticdb-javac: unknown flag 'Year\SCS2204\SCS2204_Lab\Tutorial_2'
+
+D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java:8: error: ';' expected
+        System.out.println(-2*(g-c))
+                                    ^
+1 error
+2022.07.07 21:57:21 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java
+2022.07.07 21:57:21 WARN  Running javac-semanticdb failed for file:///D:/University/2nd%20Year/SCS2204/SCS2204_Lab/Tutorial_2/question3.java. Output:
+semanticdb-javac: unknown flag 'Year\SCS2204\SCS2204_Lab\Tutorial_2'
+
+D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java:8: error: cannot find symbol
+        System.out.println(-2*(g-c)+c);
+                               ^
+  symbol:   variable g
+  location: class question3
+1 error
+2022.07.07 21:57:35 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java
+2022.07.07 21:57:35 WARN  Running javac-semanticdb failed for file:///D:/University/2nd%20Year/SCS2204/SCS2204_Lab/Tutorial_2/question3.java. Output:
+semanticdb-javac: unknown flag 'Year\SCS2204\SCS2204_Lab\Tutorial_2'
+
+D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java:9: error: ';' expected
+        System.out.println()
+                            ^
+1 error
+2022.07.07 21:57:46 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java
+2022.07.07 21:57:46 WARN  Running javac-semanticdb failed for file:///D:/University/2nd%20Year/SCS2204/SCS2204_Lab/Tutorial_2/question3.java. Output:
+semanticdb-javac: unknown flag 'Year\SCS2204\SCS2204_Lab\Tutorial_2'
+
+D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java:10: error: ';' expected
+        System.out.println()
+                            ^
+1 error
+2022.07.07 21:57:48 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java
+2022.07.07 21:57:48 WARN  Running javac-semanticdb failed for file:///D:/University/2nd%20Year/SCS2204/SCS2204_Lab/Tutorial_2/question3.java. Output:
+semanticdb-javac: unknown flag 'Year\SCS2204\SCS2204_Lab\Tutorial_2'
+
+D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java:10: error: ';' expected
+        System.out.println(c=c)
+                               ^
+1 error
+2022.07.07 21:57:51 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java
+2022.07.07 21:57:51 WARN  Running javac-semanticdb failed for file:///D:/University/2nd%20Year/SCS2204/SCS2204_Lab/Tutorial_2/question3.java. Output:
+semanticdb-javac: unknown flag 'Year\SCS2204\SCS2204_Lab\Tutorial_2'
+
+D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java:10: error: ';' expected
+        System.out.println(c=++c)
+                                 ^
+1 error
+2022.07.07 21:57:53 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java
+2022.07.07 21:57:54 WARN  Running javac-semanticdb failed for file:///D:/University/2nd%20Year/SCS2204/SCS2204_Lab/Tutorial_2/question3.java. Output:
+semanticdb-javac: unknown flag 'Year\SCS2204\SCS2204_Lab\Tutorial_2'
+
+D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java:10: error: ';' expected
+        System.out.println(c=++c*a)
+                                   ^
+1 error
+2022.07.07 21:57:55 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java
+2022.07.07 21:57:55 WARN  Running javac-semanticdb failed for file:///D:/University/2nd%20Year/SCS2204/SCS2204_Lab/Tutorial_2/question3.java. Output:
+semanticdb-javac: unknown flag 'Year\SCS2204\SCS2204_Lab\Tutorial_2'
+
+D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java:10: error: ';' expected
+        System.out.println(c=++c*a++)
+                                     ^
+1 error
+2022.07.07 21:57:56 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java
+2022.07.07 21:57:57 WARN  Running javac-semanticdb failed for file:///D:/University/2nd%20Year/SCS2204/SCS2204_Lab/Tutorial_2/question3.java. Output:
+semanticdb-javac: unknown flag 'Year\SCS2204\SCS2204_Lab\Tutorial_2'
+
+D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java:8: error: cannot find symbol
+        System.out.println(-2*(g-c)+c);
+                               ^
+  symbol:   variable g
+  location: class question3
+1 error
+2022.07.07 21:58:14 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java
+2022.07.07 21:58:14 WARN  Running javac-semanticdb failed for file:///D:/University/2nd%20Year/SCS2204/SCS2204_Lab/Tutorial_2/question3.java. Output:
+semanticdb-javac: unknown flag 'Year\SCS2204\SCS2204_Lab\Tutorial_2'
+
+D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java:8: error: cannot find symbol
+        System.out.println(-2*(g-c)+c);
+                               ^
+  symbol:   variable g
+  location: class question3
+1 error
+2022.07.07 21:58:16 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java
+2022.07.07 21:58:17 WARN  Running javac-semanticdb failed for file:///D:/University/2nd%20Year/SCS2204/SCS2204_Lab/Tutorial_2/question3.java. Output:
+semanticdb-javac: unknown flag 'Year\SCS2204\SCS2204_Lab\Tutorial_2'
+
+D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java:8: error: cannot find symbol
+        System.out.println(-2*(g-c)+c);
+                               ^
+  symbol:   variable g
+  location: class question3
+1 error
+Jul 07, 2022 9:58:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jul 07, 2022 9:58:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jul 07, 2022 9:58:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jul 07, 2022 9:58:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jul 07, 2022 9:58:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jul 07, 2022 9:58:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jul 07, 2022 9:58:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jul 07, 2022 9:58:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jul 07, 2022 9:58:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jul 07, 2022 9:58:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jul 07, 2022 9:58:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jul 07, 2022 9:58:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jul 07, 2022 9:58:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jul 07, 2022 9:58:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jul 07, 2022 9:58:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jul 07, 2022 9:58:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jul 07, 2022 9:58:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jul 07, 2022 9:58:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jul 07, 2022 9:58:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jul 07, 2022 9:58:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jul 07, 2022 9:58:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jul 07, 2022 9:58:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jul 07, 2022 9:58:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jul 07, 2022 9:58:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jul 07, 2022 9:58:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jul 07, 2022 9:58:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jul 07, 2022 9:58:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jul 07, 2022 9:58:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jul 07, 2022 9:58:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jul 07, 2022 9:58:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jul 07, 2022 9:58:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jul 07, 2022 9:58:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jul 07, 2022 9:58:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jul 07, 2022 9:58:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jul 07, 2022 9:58:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jul 07, 2022 9:58:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jul 07, 2022 9:58:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jul 07, 2022 9:58:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jul 07, 2022 9:58:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jul 07, 2022 9:58:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jul 07, 2022 9:58:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jul 07, 2022 9:58:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jul 07, 2022 9:58:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jul 07, 2022 9:58:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jul 07, 2022 9:58:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jul 07, 2022 9:58:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jul 07, 2022 9:58:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2022.07.07 21:59:27 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java
+2022.07.07 21:59:28 WARN  Running javac-semanticdb failed for file:///D:/University/2nd%20Year/SCS2204/SCS2204_Lab/Tutorial_2/question3.java. Output:
+semanticdb-javac: unknown flag 'Year\SCS2204\SCS2204_Lab\Tutorial_2'
+
+2022.07.07 21:59:35 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java
+2022.07.07 21:59:35 WARN  Running javac-semanticdb failed for file:///D:/University/2nd%20Year/SCS2204/SCS2204_Lab/Tutorial_2/question3.java. Output:
+semanticdb-javac: unknown flag 'Year\SCS2204\SCS2204_Lab\Tutorial_2'
+
+2022.07.07 21:59:47 WARN  no build target for: D:\University\2nd Year\SCS2204\SCS2204_Lab\Tutorial_2\question3.java
+2022.07.07 21:59:47 WARN  Running javac-semanticdb failed for file:///D:/University/2nd%20Year/SCS2204/SCS2204_Lab/Tutorial_2/question3.java. Output:
+semanticdb-javac: unknown flag 'Year\SCS2204\SCS2204_Lab\Tutorial_2'
+
