@@ -1,0 +1,8 @@
+scala> def absVal(a:Int) = if(a < 0) -a else a
+def absVal(a: Int): Int
+
+scala> absVal(100)
+val res0: Int = 100
+
+scala> absVal(-20)
+val res1: Int = 20
