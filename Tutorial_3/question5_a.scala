@@ -1,4 +1,4 @@
-object question5 extends App{
+object question5_a extends App{
     var a: Int = 1;
     var b: Int = 2;
 
