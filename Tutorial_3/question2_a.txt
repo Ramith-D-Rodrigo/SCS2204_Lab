@@ -1,0 +1,8 @@
+scala> def maxNum(a:Int, b:Int) = if(a > b) a else b
+def maxNum(a: Int, b: Int): Int
+
+scala> maxNum(10,20)
+val res0: Int = 20
+
+scala> maxNum(-20,-21)
+val res1: Int = -20
