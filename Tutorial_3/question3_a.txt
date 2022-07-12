@@ -1,0 +1,14 @@
+scala> def largest(x: Int, y: Int, z: Int) = if(x > y) if(x > z) x else z else if (y > z) y else z
+def largest(x: Int, y: Int, z: Int): Int
+
+scala> largest(1,2,3)
+val res2: Int = 3
+
+scala> largest(4,3,2)
+val res3: Int = 4
+
+scala> largest(10,30,14)
+val res4: Int = 30
+
+scala> largest(20,35,1)
+val res5: Int = 35
