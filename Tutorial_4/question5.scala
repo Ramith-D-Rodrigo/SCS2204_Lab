@@ -12,7 +12,7 @@ object question5 extends App{
     }
 
     println(formatNames("Benny", toUpper));
-    println(formatNames("Niroshan", toUpper));
+    println(formatNames("Ni", toUpper) + "roshan");
     println(formatNames("Saman", toLower));
-    println(formatNames("Kumara", toLower));
+    println(formatNames("K", toUpper) +"umar" + formatNames("a", toUpper));
 }
