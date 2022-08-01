@@ -13,14 +13,26 @@ object question5 extends App{
             some_func(name);
         }
         else{
-            var temp: Char = name.charAt(change.head);
-            name.replace(change.head) = some_func(temp.toString()).toCharArray()[0];
-            name;
+            var fixedcharset = scala.collection.mutable.Map[Int, String]();
+            for(i <- change){   //changing the cases of certain characters
+                var result = some_func(name.charAt(i).toString());
+                fixedcharset += (i -> result);
+            }
+            var final_string = "";
+            for(i <- 0 until name.length){ //creating the final string
+                if(fixedcharset.keySet.contains(i)){
+                    final_string = final_string + fixedcharset(i);
+                }
+                else{
+                    final_string = final_string + name.charAt(i).toString();
+                }
+            }
+            final_string;
         }
     }
 
     println(formatNames("Benny", toUpper, List(-1)));
-    println(formatNames("Niroshan", toUpper, List(0,1)));
+    println(formatNames("Niroshan", toUpper, List(1)));
     println(formatNames("Saman", toLower, List(-1)));
-    println(formatNames("Kumara", toUpper, List(0,5)));
+    println(formatNames("Kumara", toUpper, List(5)));
 }
