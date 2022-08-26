@@ -1,7 +1,7 @@
 object question4 extends App{
     def isEven(n: Int): Boolean = n match{
         case x if(x == 0) => true;
-        case _ => isOdd(x-1);
+        case _ => isOdd(n-1);
     }
 
     def isOdd(n: Int): Boolean = {
