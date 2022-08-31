@@ -9,8 +9,8 @@ object question2 extends App{
         if(s < n){
             if(prime(s))
                 print(s + ", ");
-        }
-        primeSeq(n, s+1);
+            primeSeq(n, s+1);
+        } 
     }
 
     primeSeq(100);
