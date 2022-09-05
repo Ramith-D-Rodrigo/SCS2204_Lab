@@ -30,7 +30,7 @@ object caesar_cipher extends App{
             }
             else{
                 //println(((alphabet(1).indexOf(character) - shift) + alphabet(1).length()));
-                alphabet(1).charAt(((alphabet(1).indexOf(character) - shift) + alphabet(1).length()) % alphabet(0).length());  //lowercase decryption
+                alphabet(1).charAt(((alphabet(1).indexOf(character) - shift) + alphabet(1).length()) % alphabet(1).length());  //lowercase decryption
             }
         }
     }
