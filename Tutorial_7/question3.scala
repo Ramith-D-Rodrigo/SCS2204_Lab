@@ -54,7 +54,7 @@ object question3 extends App{
     println(accOne.toString());
     println(accTwo.toString());
 
-    var transferAmount = -90000;
+    var transferAmount = 42000;
     println("\nTransferring " + transferAmount.toString() + " account 1 to account 2....");
     accOne.transfer(accTwo, transferAmount);
 
