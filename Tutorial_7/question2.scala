@@ -3,7 +3,7 @@ object question2 extends App{
         def numerator = x;
         def denominator = y;
 
-        def -(that: Rational): Rational = {
+        def sub(that: Rational): Rational = {
             Rational(this.numerator * that.denominator - that.numerator * this.denominator, this.denominator * that.denominator);
         }
 
@@ -13,7 +13,7 @@ object question2 extends App{
     var x = new Rational(3,4);
     var y = new Rational(5,8);
     var z = new Rational(2,7);
-    var ans = x-y-z;
+    var ans = x.sub(y).sub(z);
 
     println(ans.toString());
 }
