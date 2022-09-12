@@ -35,13 +35,11 @@ object question4 extends App{
         account.map(_.accountBalance).reduce((x, y) => x + y);
     }
 
-    def finalBalance(account: List[Account]): List[Double] = {
+    def finalBalance(account: List[Account]): List[Double] = {  //get the final balances of all the accounts including the interest
         account.map(_.balanceWithInterest());
     }
 
     var Bank = List(new Account(1, "Ramith", 30000), new Account(2, "Dulsara", -24000), new Account(3, "Rodrigo", -10000), new Account(3, "John", 36000));
-    var mylist = negAccounts(Bank);
-
     var negativeBalances = negAccounts(Bank);
     var sumAllAccountBalances = sumBalance(Bank);
     var finalBalances = finalBalance(Bank);
